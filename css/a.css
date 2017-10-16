@@ -1,4 +1,5 @@
 .a{
     background: red;
     border: 1px solid orange;
+    border-radius: 5px;
 }
