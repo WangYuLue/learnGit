@@ -1,13 +1,1 @@
-﻿只是了解一下git的使用方法
-
-hahaha
-
-这边是txt
-
-werrrrr
-
-77777
-
---------------------
-
-1022
+﻿只是了解一下git reset 与 git revert 的区别
