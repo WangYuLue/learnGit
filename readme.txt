@@ -14,8 +14,4 @@ master 1045
 master 1045
 master 1045(34)
 master 1045(34)
-<<<<<<< HEAD
 master 1045(34)(5)
-=======
-master 1045(34)(1)
->>>>>>> 修改一
